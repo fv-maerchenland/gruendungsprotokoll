@@ -98,7 +98,7 @@ Das Protokoll ist unter Wahrung des Datenschutzes zu veröffentlichen.
 17. Diskussion über die Außerordentliche Mitgliederversammlung in §9:  
 Änderung der Formulierung von schriftlich in Textform.
 
-Das Wort begründet in §9 (1) wird gestrichen.
+    Das Wort begründet in §9 (1) wird gestrichen.
 
 18. Diskussion über den Vorstand in §10:  
     Der Vorstand besteht aus Vorsitz, stellv. Vorsitz,  Schatzmeister und bis zu 2 Beisitzenden.
