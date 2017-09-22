@@ -23,7 +23,11 @@ Die Versammlung wird geleitet vom Initiator Marlon Schreiber.
 
 Als Protokollant wird Ralf Praschak bestimmt.
 
-# Top 2 - Vorstellung und Diskussion des Satzungsentwurfes
+# Top 2 - Gründung des Vereins
+Die Gründung des Fördervereins wird einstimmig von den 9 Gründungsmitgliedern beschlossen.  
+Darüber wird eine gesonderte Niederschrift vom Versammlungsleiter erstellt und von allen Teilnehmenden unterschrieben. Diese wird als Anlage an dieses Protokoll angefügt.
+
+# Top 3 - Vorstellung und Diskussion des Satzungsentwurfes
 Es wird der schriftlich vorliegende Satzungsentwurf schrittweise vorgelesen und über die einzelnen Paragraphen und Absätze diskutiert.
 
 1. Diskussion über den Namen des Vereins in §1 (1):  
@@ -138,7 +142,7 @@ In §16 muss das Datum eingefügt werden.
 
 Es soll überall einheitlich Beitrags- und Finanzordnung stehen.
 
-# Top 3 - Betrags- und Finanzordnung
+# Top 4 - Betrags- und Finanzordnung
 Folgender Textvorschlag wird erarbeitet:
 
     Beitrags- und Finanzordnung des „Fördervereins KiTa Märchenland e.V.“
@@ -149,10 +153,10 @@ Folgender Textvorschlag wird erarbeitet:
 
       2. Der jährlicher Mitgliedsbeitrag für Fördermitglieder beträgt 30 Euro.
 
-# Top 4 - Abstimmung über Satzung sowie Beitrags- und Finanzordnung
+# Top 5 - Abstimmung über Satzung sowie Beitrags- und Finanzordnung
 Es werden jeweils die Endfassungen der Satzung und der Beitrags- und Finanzordnung einstimmig angenommen.
 
-# Top 5 - Vorstandswahlen
+# Top 6 - Vorstandswahlen
 Es wird Nelie Kroth einstimmig als Wahlleiterin gewählt und übernimmt die Versammlungsleitung.
 
 Die Versammlung beschließt einstimmig offene Abstimmungen für die Vorstandswahlen.
@@ -200,7 +204,7 @@ Nicole Janik und Ralf Praschak werden jeweils einstimmig bei je einer Enthaltung
 Alle Anwesenden nehmen die Wahl.  
 Sina Böhm hatte vorab ihre Zustimmung im Falle der Wahl in Textform erklärt.
 
-# Top 6 - Wahl der Kassenprüfer
+# Top 7 - Wahl der Kassenprüfer
 Nelie Kroth übergibt die Versammlungsleitung zurück an Marlon Schreiber.
 
 Kandidaten für die Kassenprüfer sind:
@@ -212,7 +216,7 @@ Nelie Kroth und Jeanette Reuler werden jeweils einstimmig bei je einer Enthaltun
 
 Beiden nehmen die Wahl an.
 
-# Top 7 - Schlussworte des Vorsitzenden und Beendigung der Versammlung
+# Top 8 - Schlussworte des Vorsitzenden und Beendigung der Versammlung
 Es werden alle Formulare unterschrieben.
 
 Der neue Vorsitzende gibt den Fahrplan für die nächsten Schritte bekannt (Amtsgericht, Finanzamt, Bankkonto, ...) und verabschiedet alle Teilnehmenden.
