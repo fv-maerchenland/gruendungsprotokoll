@@ -9,15 +9,15 @@ Protokoll der Gründungsversammlung des „Fördervereins KiTa Märchenland e.V.
 # Top 1 - Vorstellung der Gründungsmitglieder
 Es stellen sich die 9 Gründungsmitglieder vor:
 
-- xxx
-- xxx
-- xxx
-- xxx
-- xxx
-- xxx
-- xxx
-- xxx
-- xxx
+- Ralf Praschak
+- Nicole Janik
+- Kerstin Lefevre
+- Thorsten Jäger
+- Manuel Glanz
+- Cornelia Gehrke
+- Jeanette Eulert
+- Nelli Kroth
+- Marlon Schreiber
 
 Die Versammlung wird geleitet vom Initiator Marlon Schreiber.
 
@@ -157,7 +157,7 @@ Folgender Textvorschlag wird erarbeitet:
 Es werden jeweils die Endfassungen der Satzung und der Beitrags- und Finanzordnung einstimmig angenommen.
 
 # Top 6 - Vorstandswahlen
-Es wird Nelie Kroth einstimmig als Wahlleiterin gewählt und übernimmt die Versammlungsleitung.
+Es wird Nelli Kroth einstimmig als Wahlleiterin gewählt und übernimmt die Versammlungsleitung.
 
 Die Versammlung beschließt einstimmig offene Abstimmungen für die Vorstandswahlen.
 
@@ -201,15 +201,15 @@ Nicole Janik und Ralf Praschak werden jeweils einstimmig bei je einer Enthaltung
 
 ----------
 
-Alle Anwesenden nehmen die Wahl.  
+Alle Anwesenden nehmen die Wahl an.  
 Sina Böhm hatte vorab ihre Zustimmung im Falle der Wahl in Textform erklärt.
 
 # Top 7 - Wahl der Kassenprüfer
-Nelie Kroth übergibt die Versammlungsleitung zurück an Marlon Schreiber.
+Nelli Kroth übergibt die Versammlungsleitung zurück an Marlon Schreiber.
 
 Kandidaten für die Kassenprüfer sind:
 
-- Nelie Kroth
+- Nelli Kroth
 - Jeanette Reuler
 
 Nelie Kroth und Jeanette Reuler werden jeweils einstimmig bei je einer Enthaltung zu Kassenprüferinnen gewählt.
