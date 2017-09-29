@@ -9,15 +9,15 @@ Protokoll der Gründungsversammlung des „Fördervereins KiTa Märchenland e.V.
 # Top 1 - Vorstellung der Gründungsmitglieder
 Es stellen sich die 9 Gründungsmitglieder vor:
 
-- Ralf Praschak
-- Nicole Janik
-- Kerstin Lefevre
-- Thorsten Jäger
-- Manuel Glanz
 - Cornelia Gehrke
 - Jeanette Eulert
-- Nelli Kroth
+- Kerstin Lefevre
+- Manuel Glanz
 - Marlon Schreiber
+- Nelli Kroth
+- Nicole Janik
+- Ralf Praschak
+- Thorsten Jäger
 
 Die Versammlung wird geleitet vom Initiator Marlon Schreiber.
 
@@ -212,7 +212,7 @@ Kandidaten für die Kassenprüfer sind:
 - Nelli Kroth
 - Jeanette Reuler
 
-Nelie Kroth und Jeanette Reuler werden jeweils einstimmig bei je einer Enthaltung zu Kassenprüferinnen gewählt.
+Nelli Kroth und Jeanette Reuler werden jeweils einstimmig bei je einer Enthaltung zu Kassenprüferinnen gewählt.
 
 Beiden nehmen die Wahl an.
 
