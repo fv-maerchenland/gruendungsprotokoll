@@ -161,7 +161,7 @@ Es wird Nelli Kroth einstimmig als Wahlleiterin gewählt und übernimmt die Vers
 
 Die Versammlung beschließt einstimmig offene Abstimmungen für die Vorstandswahlen.
 
-----------
+---
 
 Kandidaten für den Vorsitz sind:
 
@@ -170,7 +170,7 @@ Kandidaten für den Vorsitz sind:
 Marlon Schreiber wird einstimmig bei einer Enthaltung zum Vorsitzenden gewählt.
 
 
-----------
+---
 
 Kandidaten für den stellvertretenden Vorsitz sind:
 
@@ -178,7 +178,7 @@ Kandidaten für den stellvertretenden Vorsitz sind:
 
 Manuel Glanz wird einstimmig bei einer Enthaltung zum stellvertretenden Vorsitzenden gewählt.
 
-----------
+---
 
 Kandidaten für den Schatzmeister sind:
 
@@ -189,7 +189,7 @@ Die Versammlung beschließt einstimmig die Zulassung der Wahl in Abwesenheit, da
 Sina Böhm wird einstimmig zur Schatzmeisterin gewählt.
 
 
-----------
+---
 
 Kandidaten für die Beisitzenden sind:
 
@@ -199,7 +199,7 @@ Kandidaten für die Beisitzenden sind:
 Nicole Janik und Ralf Praschak werden jeweils einstimmig bei je einer Enthaltung zu Beisitzenden gewählt.
 
 
-----------
+---
 
 Alle Anwesenden nehmen die Wahl an.  
 Sina Böhm hatte vorab ihre Zustimmung im Falle der Wahl in Textform erklärt.
@@ -224,16 +224,17 @@ Der neue Vorsitzende gibt den Fahrplan für die nächsten Schritte bekannt (Amts
 Die Versammlung endet um 22:50 Uhr.
 
 
-
-
+<div style="width: 40%; display: inline-block;">
+<div style="margin: 100px 0 0 0; border-bottom: 2px solid black"></div>
 Unterschrift Versammlungsleitung
+</div>
 
-
-
-
+<div style="width: 40%; display: inline-block; float: right;">
+<div style="margin: 100px 0 0 0; border-bottom: 2px solid black"></div>
 Unterschrift Wahlleitung
+</div>
 
-
-
-
+<div style="width: 40%; margin: 0 auto;">
+<div style="margin: 100px 0 0 0; border-bottom: 2px solid black"></div>
 Unterschrift Protokollant
+</div>
